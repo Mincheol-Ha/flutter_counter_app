@@ -1,4 +1,4 @@
-# flutter_member_app
+# flutter_counter_app
 
 A new Flutter project.
 
